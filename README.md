@@ -1,2 +1,2 @@
-# API-para-cotacao-de-moedas
- Encontrando a cotação do Bitcoin por API
+# API para cotações de moedas
+ Encontrando a cotação do Bitcoin por API.
